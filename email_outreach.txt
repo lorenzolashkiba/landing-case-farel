@@ -1,50 +1,50 @@
-Case Farel — email_outreach.txt
+Elettroimpianti Vedelago — email_outreach.txt
 
 1. Oggetto email
 
-- Professionale: Proposta landing page dedicata per valorizzare Case Farel
-- Diretta: Ho preparato una demo landing per Case Farel
-- Calda/personale: Ho immaginato una pagina più emozionale per raccontare meglio Case Farel
+- Professionale: Proposta landing page dedicata per Elettroimpianti Vedelago
+- Diretta: Ho preparato una demo landing per Elettroimpianti Vedelago
+- Calda/personale: Ho pensato a una pagina più chiara e professionale per presentare meglio i vostri servizi
 
 2. Email completa
 
 Buongiorno,
 
-sono un web developer freelance della zona e ho guardato con interesse il vostro sito e il modo in cui presentate Case Farel online.
+sono un web developer freelance della zona e ho visto la vostra presenza online.
 
-Mi sembra una realtà con un'identità molto bella, legata al territorio, alla cura del luogo e all'esperienza. Proprio per questo ho pensato che potrebbe funzionare molto bene anche una landing più emozionale, costruita per far venire voglia di visitare Case Farel già dai primi secondi.
+Per un'attività come Elettroimpianti Vedelago, secondo me può essere molto utile una pagina semplice ma professionale, che faccia capire subito i servizi offerti, trasmetta affidabilità e accompagni il cliente verso la richiesta di sopralluogo o preventivo.
 
-Ho quindi preparato una demo dedicata, con una struttura più narrativa e visiva, che punta soprattutto su:
+Per questo ho preparato una demo landing dedicata alla vostra attività, con un'impostazione più ordinata e focalizzata su:
 
-- impatto iniziale più forte sulle colline e sull'atmosfera
-- percorso più chiaro verso visita, esperienza e contatto
-- presentazione più calda e memorabile per chi vi scopre per la prima volta
+- presentazione chiara di impianti, manutenzione e interventi
+- richiesta sopralluogo messa più in evidenza
+- immagine online più seria e coerente con il tipo di lavoro svolto
 
-L'idea non è sostituire il sito, ma mostrarvi come potrebbe funzionare una pagina più focalizzata da usare per presentazione, campagne, social o promozione di visite ed esperienze.
+L'obiettivo è aiutare chi vi trova online a capire più rapidamente che siete un riferimento affidabile e a fare il passo successivo senza incertezza.
 
-Questa è la demo:
-https://lorenzo-case-farel.netlify.app
+Se vi fa piacere, posso inviarvi la demo così la guardate senza impegno.
 
-Se vi fa piacere, potete vederla senza impegno e valutare se un taglio di questo tipo potrebbe esservi utile.
+Demo:
+https://lorenzo-elettroimpianti-vedelago.netlify.app
 
-Un saluto,
-[Il tuo nome]
+Cordiali saluti,
+Lorenzo
 
 3. Versione breve
 
 Buongiorno,
-sono un freelance web della zona. Ho visto il vostro sito e ho preparato una piccola demo landing per Case Farel, pensata per valorizzare meglio atmosfera, territorio e invito alla visita.
+sono un freelance web della zona. Ho visto la vostra presenza online e ho preparato una piccola demo landing pensata per Elettroimpianti Vedelago.
 
-È una pagina più emozionale e diretta, utile soprattutto per chi vi scopre per la prima volta.
+L'idea è presentare meglio i servizi e rendere più semplice la richiesta di sopralluogo o preventivo.
 
 Demo:
-https://lorenzo-case-farel.netlify.app
+https://lorenzo-elettroimpianti-vedelago.netlify.app
 
-Se volete, datele un'occhiata senza impegno.
+Se vi interessa, datele un'occhiata senza impegno.
 
-[Il tuo nome]
+Lorenzo
 
 4. Nota strategica
 
-- Perché può interessare: Case Farel vende molto attraverso percezione, atmosfera e desiderabilità del luogo. Una landing focalizzata può aumentare l'effetto emotivo e rendere più naturale il contatto.
-- Punto forte da evidenziare: la hero centrale molto forte e la costruzione narrativa dell'esperienza, che trasforma il sito in un invito concreto alla visita.
+- Perché può interessare: nei servizi impiantistici conta molto la percezione di serietà e chiarezza. Una landing focalizzata può aiutare a generare più richieste qualificate.
+- Punto forte da evidenziare: la CTA sul sopralluogo e il tono professionale della pagina, che rende il servizio più comprensibile e più affidabile.
